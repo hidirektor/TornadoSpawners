@@ -1,0 +1,287 @@
+Spawner_Types:
+  stone:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Stone &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '1'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  grass:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Grass &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '2'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  diamond:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Diamond &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '264'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  diamondblock:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Diamond Block &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '57'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  iron:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Iron &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '265'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  ironblock:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Iron Block &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '42'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  gold:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Gold &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '266'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  goldblock:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Gold Block &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '41'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  redstone:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Redstone &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '331'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  redstoneblock:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Redstone Block &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '152'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  quartz:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Quartz &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '406'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  quartzblock:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Quartz Block &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '155'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  Prismarine:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Prismarine &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '168'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  endstone:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9End Stone &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '121'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  coal:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Coal &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '263'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  coalblock:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Coal Block &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '173'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  cactus:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Cactus &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '81'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  emerald:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Emerald &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '388'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  emeraldblock:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Emerald Block &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '133'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  lapis:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Lapis &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '351:4'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  lapisblock:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Lapis Block &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '22'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'
+  sponge:
+    Spawner_SpawnCount: 1
+    Spawner_SpawnRange: 1
+    Spawner_MinSpawnerDelay: 3
+    Spawner_MaxSpawnerDelay: 5
+    Spawner_RequiredPlayerRange: 10
+    Spawner_Name: '&9Sponge &eSpawner'
+    Spawner_Lore:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dropped_Item_ID: '19'
+    Dropped_Item_Name: '.'
+    Dropped_Item_Lore:
+    - '.'    

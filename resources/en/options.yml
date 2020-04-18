@@ -1,0 +1,65 @@
+############################################################################################################
+#                                           Information Messages                                           #
+
+#Plugin main prefix, %Prefix%
+Plugin_Prefix: '&2&lS&c&lO &e&l>'
+
+#Help Menu (/items)
+Help_Prefix: '&6------------&e[ItemSpawner]&6------------'
+Help_Reload: '&7/%Main_Command% %Reload_Arg% &e» &aReloads Config'
+Help_Deal: '&7/%Main_Command% %Deal_Arg% <Spawner_Name> <Amount> &e» &aGives spawner to everybody in the server'
+Help_Give: '&7/%Main_Command% %Give_Arg% <Player_Name> <Spawner_Name> <Amount> &e» &aGives spawner to specific player'
+Help_List: '&7/%Main_Command% %List_Arg% &e» &aShows list of spawners'
+
+Spawner_List: '&6Kind of Spawners&8: &e%Spawner_List%'
+
+#                                           Information Messages                                           #
+############################################################################################################
+
+###############################################
+#               General Options               #
+
+Minimum_SilkTouch_Level_For_Break_To_Spawner: 1
+Stay_Exploded_Location: true
+
+#               General Options               #
+###############################################
+
+
+###############################################
+#                    Items                    #
+Item_Pickaxe:
+  Pickaxe_ID: '278'
+  Pickaxe_Name: '.'
+  Pickaxe_Lore:
+  - '.'
+#                    Items                    #
+###############################################
+
+
+#############################################################################################
+#                                      General Messages                                     #
+
+Files_Has_Been_Reloaded: '%Prefix% &aFiles has been reloaded!'
+
+Spawner_Deal: '%Prefix% &aYou got a new spawner by &cDeal&a!'
+Spawner_Give: '%Prefix% &aYou got a new spawner by &cGive&a!'
+Spawner_Has_Been_Gived: '%Prefix% &aSpawner has been gived to &c%Target_Name%'
+
+#                                      General Messages                                     #
+#############################################################################################
+
+########################################
+#            Error Messages            #
+
+Player_Not_Found: '%Prefix% &c%Player_Name% &4player not found!'
+Player_Help_Message: '%Prefix% &4There isn''t command for the players to use!'
+Wrong_ID: '%Prefix% &4You entered a wrong ID!'
+Inventory_Is_Full: '%Prefix% &4Your inventory is full!'
+Player_Inventory_Is_Full: '%Prefix% &c%Player_Name% &4inventory is full!'
+Insufficient_SilkTouch_Level: '%Prefix% &4Your silk touch level is insufficient, required %Required%'
+Just_Breakable_With_Special_Pickaxe: '%Prefix% &4Spawners just breakable with speacial pickaxe!'
+Unsupporting_Version: '%Prefix% &4Unsupporting server version, supporting version: 1.7.x-1.12'
+
+#            Error Messages            #
+########################################

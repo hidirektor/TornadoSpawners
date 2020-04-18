@@ -1,0 +1,287 @@
+Spawner_Tipleri:
+  tas:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Taş &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '1'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  cimen:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Çimen &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '2'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  elmas:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Elmas &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '264'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  elmasblok:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Elmas Blok &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '57'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  demir:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Demir &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '265'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  demirblok:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Demir Blok &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '42'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  altin:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Altın &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '266'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  altinblok:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Altın Blok &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '41'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  kiziltas:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Kızıltaş &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '331'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  kiziltasblok:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Kızıltaş Blok &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '152'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  kuvars:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Kuvars &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '406'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  kuvarsblok:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Kuvars Blok &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '155'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  prizmarin:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Prizmarin &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '168'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  endtasi:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9End Taşı &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '121'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  komur:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Kömür &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '263'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  komurblok:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Kömür Blok &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '173'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  kaktus:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Kaktüs &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '81'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  zumrut:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Zümrüt &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '388'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  zumrutblok:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Zümrüt Blok &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '133'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  lapis:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Lapis &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '351:4'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  lapisblok:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Lapis Blok &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '22'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'
+  sunger:
+    Spawner_CikacakMiktar: 1
+    Spawner_CikacakMesafe: 1
+    Spawner_MinHizi: 3
+    Spawner_MaxHizi: 5
+    Spawner_CalismaMesafesi: 10
+    Spawner_Ismi: '&9Sünger &eSpawner'
+    Spawner_Aciklamasi:
+      - '&2&lSon&c&lOsmanli &7-- &9FuryRS'
+    Dusen_Esya_ID: '19'
+    Dusen_Esya_Ismi: '.'
+    Dusen_Esya_Aciklamasi:
+    - '.'     

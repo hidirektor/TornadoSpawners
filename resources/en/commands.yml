@@ -1,0 +1,6 @@
+Main_Command: 'itemsp'
+Args:
+  Reload_Arg: 'reload'
+  Deal_Arg: 'deal'
+  Give_Arg: 'give'
+  List_Arg: 'list'

@@ -1,0 +1,8 @@
+name: TornadoSpawners
+version: 09.09.2019
+author: SYN_T3SL4
+main: me.t3sl4.tornadosp.TornadoSpawnersPlugin
+
+commands:
+  itemsp:
+    description: Main command of TornadoSpawners
